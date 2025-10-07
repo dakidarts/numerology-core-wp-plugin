@@ -43,7 +43,7 @@ This plugin is perfect for:
 
 ### Option 2 — Manual Installation
 
-1. Download the plugin from the release tag or from:
+1. Download the plugin from above or from:
    👉 **[Dakidarts Shop – Free Plugin Download](https://shop.dakidarts.com/product/dakidarts-numerology-plugin-core-free-wordpress-plugin-for-numerology-horoscope-zodiac-api-integration/)**
 2. Upload the `.zip` file to `/wp-content/plugins/`
 3. Activate via **Plugins > Installed Plugins**
